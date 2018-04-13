@@ -1,47 +1,47 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tedx.com" resolutions="1x" timestamp="1523570975960">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tedx.com" resolutions="1x" timestamp="1523631340307">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_speakers_1st_-master.css" crc="447960901" ref="mc-yinka:μιχάλης-σεΐτης:σπυρίδων-σούλης:mary-sinatsaki:ελένη-αντωνιάδου:mixaloulis:αλέξανδρος-μαραγκός"/>
+    <file name="master_speakers_1st_-master.css" crc="463530071" ref="mc-yinka:μιχάλης-σεΐτης:σπυρίδων-σούλης:mary-sinatsaki:ελένη-αντωνιάδου:mixaloulis:αλέξανδρος-μαραγκός"/>
     <file name="nomq_preview_master_speakers_1st_-master.css" crc="150505261" ref="mc-yinka:μιχάλης-σεΐτης:σπυρίδων-σούλης:mary-sinatsaki:ελένη-αντωνιάδου:mixaloulis:αλέξανδρος-μαραγκός"/>
-    <file name="master_our-team---master.css" crc="3844020332" ref="thanos"/>
+    <file name="master_our-team---master.css" crc="73831359" ref="thanos"/>
     <file name="nomq_preview_master_our-team---master.css" crc="320854344" ref="thanos"/>
-    <file name="master_a-master.css" crc="425705137" ref="index:aiesec:speakers:1st:contact:our-team:2nd:partners:schedule:main"/>
+    <file name="master_a-master.css" crc="4142253355" ref="index:aiesec:speakers:1st:contact:our-team:2nd:partners:schedule:main"/>
     <file name="nomq_preview_master_a-master.css" crc="417269710" ref="index:aiesec:speakers:1st:contact:our-team:2nd:partners:schedule:main"/>
-    <file name="index.css" crc="4066668423" ref="index"/>
+    <file name="index.css" crc="4178975639" ref="index"/>
     <file name="nomq_index.css" crc="322029025" ref="index"/>
-    <file name="mc-yinka.css" crc="3885778394" ref="mc-yinka"/>
-    <file name="nomq_mc-yinka.css" crc="3914289252" ref="mc-yinka"/>
-    <file name="_______-______.css" crc="489239546" ref="μιχάλης-σεΐτης"/>
-    <file name="nomq________-______.css" crc="26445559" ref="μιχάλης-σεΐτης"/>
-    <file name="aiesec.css" crc="178294385" ref="aiesec"/>
+    <file name="mc-yinka.css" crc="3952961465" ref="mc-yinka"/>
+    <file name="nomq_mc-yinka.css" crc="4117225963" ref="mc-yinka"/>
+    <file name="_______-______.css" crc="278725925" ref="μιχάλης-σεΐτης"/>
+    <file name="nomq________-______.css" crc="4067731745" ref="μιχάλης-σεΐτης"/>
+    <file name="aiesec.css" crc="3984430556" ref="aiesec"/>
     <file name="nomq_aiesec.css" crc="113843265" ref="aiesec"/>
-    <file name="________-______.css" crc="3977196581" ref="σπυρίδων-σούλης"/>
-    <file name="nomq_________-______.css" crc="4183022189" ref="σπυρίδων-σούλης"/>
-    <file name="mary-sinatsaki.css" crc="3820104758" ref="mary-sinatsaki"/>
-    <file name="nomq_mary-sinatsaki.css" crc="4026003812" ref="mary-sinatsaki"/>
-    <file name="_____-__________.css" crc="373584551" ref="ελένη-αντωνιάδου"/>
-    <file name="nomq______-__________.css" crc="47064949" ref="ελένη-αντωνιάδου"/>
-    <file name="speakers.css" crc="3942336633" ref="speakers"/>
+    <file name="________-______.css" crc="151667015" ref="σπυρίδων-σούλης"/>
+    <file name="nomq_________-______.css" crc="4099486170" ref="σπυρίδων-σούλης"/>
+    <file name="mary-sinatsaki.css" crc="3972670878" ref="mary-sinatsaki"/>
+    <file name="nomq_mary-sinatsaki.css" crc="3823955409" ref="mary-sinatsaki"/>
+    <file name="_____-__________.css" crc="198177578" ref="ελένη-αντωνιάδου"/>
+    <file name="nomq______-__________.css" crc="329742717" ref="ελένη-αντωνιάδου"/>
+    <file name="speakers.css" crc="355231471" ref="speakers"/>
     <file name="nomq_speakers.css" crc="3934216638" ref="speakers"/>
-    <file name="thanos.css" crc="273206038" ref="thanos"/>
+    <file name="thanos.css" crc="4224294014" ref="thanos"/>
     <file name="nomq_thanos.css" crc="3838398721" ref="thanos"/>
-    <file name="1st.css" crc="156903675" ref="1st"/>
-    <file name="nomq_1st.css" crc="486424565" ref="1st"/>
-    <file name="mixaloulis.css" crc="9476545" ref="mixaloulis"/>
-    <file name="nomq_mixaloulis.css" crc="486392105" ref="mixaloulis"/>
-    <file name="contact.css" crc="62231957" ref="contact"/>
+    <file name="1st.css" crc="382533088" ref="1st"/>
+    <file name="nomq_1st.css" crc="19397426" ref="1st"/>
+    <file name="mixaloulis.css" crc="323889191" ref="mixaloulis"/>
+    <file name="nomq_mixaloulis.css" crc="437285199" ref="mixaloulis"/>
+    <file name="contact.css" crc="3828908485" ref="contact"/>
     <file name="nomq_contact.css" crc="269671315" ref="contact"/>
-    <file name="__________-________.css" crc="91072815" ref="αλέξανδρος-μαραγκός"/>
-    <file name="nomq___________-________.css" crc="4266552983" ref="αλέξανδρος-μαραγκός"/>
-    <file name="our-team.css" crc="109851410" ref="our-team"/>
-    <file name="nomq_our-team.css" crc="285402528" ref="our-team"/>
-    <file name="2nd.css" crc="4006710899" ref="2nd"/>
+    <file name="__________-________.css" crc="63293584" ref="αλέξανδρος-μαραγκός"/>
+    <file name="nomq___________-________.css" crc="129529229" ref="αλέξανδρος-μαραγκός"/>
+    <file name="our-team.css" crc="270800905" ref="our-team"/>
+    <file name="nomq_our-team.css" crc="259414405" ref="our-team"/>
+    <file name="2nd.css" crc="4084831507" ref="2nd"/>
     <file name="nomq_2nd.css" crc="3808657192" ref="2nd"/>
-    <file name="partners.css" crc="4272008462" ref="partners"/>
-    <file name="nomq_partners.css" crc="3879132281" ref="partners"/>
-    <file name="schedule.css" crc="125079954" ref="schedule"/>
+    <file name="partners.css" crc="251578652" ref="partners"/>
+    <file name="nomq_partners.css" crc="3831075442" ref="partners"/>
+    <file name="schedule.css" crc="4137181832" ref="schedule"/>
     <file name="nomq_schedule.css" crc="3908402456" ref="schedule"/>
-    <file name="main.css" crc="4204993597" ref="main"/>
+    <file name="main.css" crc="3909922419" ref="main"/>
     <file name="nomq_main.css" crc="3817900270" ref="main"/>
   </folder>
   <folder name="scripts">
@@ -50,10 +50,10 @@
     <file name="whatinput.js" crc="86476730" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
     <file name="museconfig.js" crc="436936948" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:thanos"/>
     <file name="jquery.watch.js" crc="4178585335" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
-    <file name="webpro.js" crc="4152390327" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
-    <file name="musewpdisclosure.js" crc="204784597" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
+    <file name="webpro.js" crc="4152390327" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:thanos"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:thanos"/>
     <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
     <file name="jquery.museresponsive.js" crc="52098982" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
@@ -69,24 +69,21 @@
   <folder name="images">
     <file name="a-master-favicon.ico" crc="392601853" ref="index"/>
     <file name="instagram-logo.png" crc="254512197" ref="index:contact:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos">
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="μιχάλης-σεΐτης" alt=""/>
-      <caption webpage="μιχάλης-σεΐτης" alt=""/>
-      <caption webpage="μιχάλης-σεΐτης" alt=""/>
-      <caption webpage="σπυρίδων-σούλης" alt=""/>
-      <caption webpage="σπυρίδων-σούλης" alt=""/>
-      <caption webpage="σπυρίδων-σούλης" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
+      <caption webpage="μιχάλης-σεΐτης" alt=""/>
+      <caption webpage="μιχάλης-σεΐτης" alt=""/>
+      <caption webpage="μιχάλης-σεΐτης" alt=""/>
       <caption webpage="mc-yinka" alt=""/>
       <caption webpage="mc-yinka" alt=""/>
       <caption webpage="mc-yinka" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -95,34 +92,34 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="σπυρίδων-σούλης" alt=""/>
+      <caption webpage="σπυρίδων-σούλης" alt=""/>
+      <caption webpage="σπυρίδων-σούλης" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
     </file>
     <file name="facebook-logo.png" crc="536300434" ref="index:contact:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos">
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="μιχάλης-σεΐτης" alt=""/>
-      <caption webpage="μιχάλης-σεΐτης" alt=""/>
-      <caption webpage="μιχάλης-σεΐτης" alt=""/>
-      <caption webpage="σπυρίδων-σούλης" alt=""/>
-      <caption webpage="σπυρίδων-σούλης" alt=""/>
-      <caption webpage="σπυρίδων-σούλης" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
+      <caption webpage="μιχάλης-σεΐτης" alt=""/>
+      <caption webpage="μιχάλης-σεΐτης" alt=""/>
+      <caption webpage="μιχάλης-σεΐτης" alt=""/>
       <caption webpage="mc-yinka" alt=""/>
       <caption webpage="mc-yinka" alt=""/>
       <caption webpage="mc-yinka" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -131,11 +128,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="σπυρίδων-σούλης" alt=""/>
+      <caption webpage="σπυρίδων-σούλης" alt=""/>
+      <caption webpage="σπυρίδων-σούλης" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
@@ -149,16 +149,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
       <caption webpage="mary-sinatsaki" alt=""/>
@@ -187,15 +187,11 @@
     <file name="u10644-83.png" crc="4141751136" ref="index"/>
     <file name="set2photo_ryanlashted-u2697-fr3.jpg" crc="4231956510" ref="index"/>
     <file name="u10644-84.png" crc="4285669021" ref="index"/>
-    <file name="menubtn.png" crc="260670549" seo="true" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos">
-      <caption webpage="mc-yinka" alt=""/>
-      <caption webpage="mc-yinka" alt=""/>
-      <caption webpage="mc-yinka" alt=""/>
-      <caption webpage="mc-yinka" alt=""/>
-      <caption webpage="2nd" alt=""/>
-      <caption webpage="2nd" alt=""/>
-      <caption webpage="2nd" alt=""/>
-      <caption webpage="2nd" alt=""/>
+    <file name="menubtn.png" crc="260670549" seo="true" ref="index:schedule:aiesec:speakers:contact:our-team:partners:1st:2nd:main:thanos">
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
+      <caption webpage="main" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
       <caption webpage="ελένη-αντωνιάδου" alt=""/>
@@ -204,46 +200,46 @@
       <caption webpage="our-team" alt=""/>
       <caption webpage="our-team" alt=""/>
       <caption webpage="our-team" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="speakers" alt=""/>
-      <caption webpage="speakers" alt=""/>
-      <caption webpage="speakers" alt=""/>
-      <caption webpage="speakers" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
-      <caption webpage="mixaloulis" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="thanos" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="aiesec" alt=""/>
-      <caption webpage="1st" alt=""/>
-      <caption webpage="1st" alt=""/>
-      <caption webpage="1st" alt=""/>
-      <caption webpage="1st" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
-      <caption webpage="main" alt=""/>
       <caption webpage="μιχάλης-σεΐτης" alt=""/>
       <caption webpage="μιχάλης-σεΐτης" alt=""/>
       <caption webpage="μιχάλης-σεΐτης" alt=""/>
       <caption webpage="μιχάλης-σεΐτης" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="aiesec" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="1st" alt=""/>
+      <caption webpage="1st" alt=""/>
+      <caption webpage="1st" alt=""/>
+      <caption webpage="1st" alt=""/>
+      <caption webpage="2nd" alt=""/>
+      <caption webpage="2nd" alt=""/>
+      <caption webpage="2nd" alt=""/>
+      <caption webpage="2nd" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="σπυρίδων-σούλης" alt=""/>
       <caption webpage="σπυρίδων-σούλης" alt=""/>
       <caption webpage="σπυρίδων-σούλης" alt=""/>
       <caption webpage="σπυρίδων-σούλης" alt=""/>
+      <caption webpage="speakers" alt=""/>
+      <caption webpage="speakers" alt=""/>
+      <caption webpage="speakers" alt=""/>
+      <caption webpage="speakers" alt=""/>
+      <caption webpage="mc-yinka" alt=""/>
+      <caption webpage="mc-yinka" alt=""/>
+      <caption webpage="mc-yinka" alt=""/>
+      <caption webpage="mc-yinka" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
+      <caption webpage="mixaloulis" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
       <caption webpage="αλέξανδρος-μαραγκός" alt=""/>
@@ -252,6 +248,10 @@
       <caption webpage="partners" alt=""/>
       <caption webpage="partners" alt=""/>
       <caption webpage="partners" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
+      <caption webpage="thanos" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
@@ -1407,54 +1407,6 @@
     <file name="shame-u200068-fr4.png" crc="4085988582" ref="our-team"/>
     <file name="u180389-48.png" crc="322677492" ref="our-team"/>
     <file name="shame-u200068-fr5.png" crc="3982851689" ref="our-team"/>
-    <file name="u180543-4.png" crc="149450159" ref="partners"/>
-    <file name="arch.jpg" crc="110310505" ref="partners">
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-    </file>
-    <file name="nl.jpg" crc="268140908" ref="partners">
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-    </file>
-    <file name="por.jpg" crc="4135780842" ref="partners">
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-    </file>
-    <file name="urban.jpg" crc="4149776338" ref="partners">
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-      <caption webpage="partners" alt=""/>
-    </file>
-    <file name="u180543-42.png" crc="209259255" ref="partners"/>
-    <file name="u180543-43.png" crc="132932822" ref="partners"/>
-    <file name="u180543-44.png" crc="21567221" ref="partners"/>
-    <file name="u180543-45.png" crc="238198761" ref="partners"/>
-    <file name="u180543-46.png" crc="22764093" ref="partners"/>
-    <file name="u180543-47.png" crc="3789800656" ref="partners"/>
-    <file name="u180543-48.png" crc="215970435" ref="partners"/>
-    <file name="por-u180545-fr.jpg" crc="163750074" ref="partners"/>
-    <file name="urban-u180544-fr.jpg" crc="8097690" ref="partners"/>
     <file name="u185813-4.png" crc="4091960595" ref="1st"/>
     <file name="u185818-4.png" crc="4074352544" ref="1st"/>
     <file name="u185810-6.png" crc="264479280" ref="1st"/>
@@ -1833,14 +1785,6 @@
     <file name="u189635-44.png" crc="129074430" ref="mary-sinatsaki"/>
     <file name="instagram-logo-u189643-fr.png" crc="24349682" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
     <file name="facebook-logo-u189642-fr.png" crc="4120366635" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
-    <file name="u192214.png" crc="4124898951" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης"/>
-    <file name="u192214-r.png" crc="120808190" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης"/>
-    <file name="u192195.png" crc="423891073" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης"/>
-    <file name="u192195-r.png" crc="494802754" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης"/>
-    <file name="u192207.png" crc="207638887" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης"/>
-    <file name="u192207-r.png" crc="223875432" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης"/>
-    <file name="u192202.png" crc="4215628183" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης"/>
-    <file name="u192202-r.png" crc="45502017" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης"/>
     <file name="instagram-logo-u189643-fr2.png" crc="477476343" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
     <file name="facebook-logo-u189642-fr2.png" crc="3937285194" ref="mary-sinatsaki:mixaloulis:ελένη-αντωνιάδου:σπυρίδων-σούλης:αλέξανδρος-μαραγκός:mc-yinka:μιχάλης-σεΐτης:thanos"/>
     <file name="u189635-45.png" crc="3863876940" ref="mary-sinatsaki"/>
@@ -1965,23 +1909,385 @@
     <file name="u201950-117.png" crc="254571177" ref="thanos"/>
     <file name="thanos-u201953-fr2.jpg" crc="450417473" ref="thanos"/>
     <file name="u201950-118.png" crc="165145666" ref="thanos"/>
+    <file name="u208912-6.png" crc="3820479460" ref="our-team"/>
+    <file name="u208919-4.png" crc="521245636" ref="our-team"/>
+    <file name="u208912-62.png" crc="3988178558" ref="our-team"/>
+    <file name="u208919-42.png" crc="451163305" ref="our-team"/>
+    <file name="u208912-63.png" crc="241913841" ref="our-team"/>
+    <file name="u208919-43.png" crc="344704846" ref="our-team"/>
+    <file name="u208912-64.png" crc="364435068" ref="our-team"/>
+    <file name="u208919-44.png" crc="3857812362" ref="our-team"/>
+    <file name="u208912-65.png" crc="165208682" ref="our-team"/>
+    <file name="u208919-45.png" crc="4176128312" ref="our-team"/>
+    <file name="u208912-66.png" crc="497210931" ref="our-team"/>
+    <file name="u208919-46.png" crc="247647581" ref="our-team"/>
+    <file name="u208919-47.png" crc="3967280036" ref="our-team"/>
+    <file name="u208912-67.png" crc="3781394371" ref="our-team"/>
+    <file name="u208919-48.png" crc="26257116" ref="our-team"/>
+    <file name="u208912-68.png" crc="4227795837" ref="our-team"/>
+    <file name="u180543-6.png" crc="431994971" ref="partners"/>
+    <file name="u209095-4.png" crc="4239272842" ref="partners"/>
+    <file name="alpha_tv_logosvg.png" crc="521466653" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="aegean_airlines_logosvg.png" crc="184050497" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="nbg_logos_gr_color.jpg" crc="3812565359" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="iwannina-dimos-logo.jpg" crc="3920643824" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="vikoseba_vraveio2_0.jpg" crc="365730757" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="u209216-4.png" crc="230586831" ref="partners"/>
+    <file name="durex-logo-58ce802d3e-seeklogocom.jpg" crc="3807227718" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="dulac.png" crc="326566084" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="mac-logo-black-350x350.jpg" crc="3921652143" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="1620535_702775569813353_8272268340612111597_n.jpg" crc="91679129" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="kathimerini.jpg" crc="161774964" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="u209326-4.png" crc="499228869" ref="partners"/>
+    <file name="epirustv1_tv-u209328-fr.jpg" crc="4079039206" ref="partners"/>
+    <file name="corfu beer-u209327-fr.png" crc="292120794" ref="partners"/>
+    <file name="dri-u209329-fr.png" crc="4029477153" ref="partners"/>
+    <file name="wind-logo-u209330-fr.jpg" crc="3905337372" ref="partners"/>
+    <file name="ipeirotikos-agon-logo-u209331-fr.png" crc="121502339" ref="partners"/>
+    <file name="00718-u209445-fr.jpg" crc="99818471" ref="partners"/>
+    <file name="diethnes-logo-300x161-u209444-fr.png" crc="21372531" ref="partners"/>
+    <file name="egg-u209446-fr.jpg" crc="104585176" ref="partners"/>
+    <file name="u209443-4.png" crc="4253730478" ref="partners"/>
+    <file name="itv-u209447-fr.jpg" crc="4106130145" ref="partners"/>
+    <file name="nn_logo-u209448-fr.jpg" crc="4222533858" ref="partners"/>
+    <file name="pizza-fan-2-u209569-fr.png" crc="176243184" ref="partners"/>
+    <file name="lacta-u209570-fr.png" crc="511589359" ref="partners"/>
+    <file name="dimitriou-u209595-fr.jpg" crc="4003318732" ref="partners"/>
+    <file name="milokleftis_logo-u209633-fr.jpg" crc="341779887" ref="partners"/>
+    <file name="garrison-u209634-fr.jpg" crc="3974892400" ref="partners"/>
+    <file name="kolionasios-u209635-fr.jpg" crc="4277084401" ref="partners"/>
+    <file name="sep-u209636-fr.png" crc="400333201" ref="partners"/>
+    <file name="frontzou-u209637-fr.png" crc="4042742124" ref="partners"/>
+    <file name="u209732-4.png" crc="4269262961" ref="partners"/>
+    <file name="run_greece-e1486464697939.jpg" crc="3769337324" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="panathinaikos_superfoods_(2016_logo).png" crc="384897231" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="29793827_1864691063565253_6373096808536604672_n.jpg" crc="3961419453" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="u180543-62.png" crc="406725195" ref="partners"/>
+    <file name="u209095-42.png" crc="232028926" ref="partners"/>
+    <file name="u209216-42.png" crc="3794650806" ref="partners"/>
+    <file name="u209326-42.png" crc="72105082" ref="partners"/>
+    <file name="epirustv1_tv-u209328-fr2.jpg" crc="4202857809" ref="partners"/>
+    <file name="dri-u209329-fr2.png" crc="3898368135" ref="partners"/>
+    <file name="wind-logo-u209330-fr2.jpg" crc="3909987513" ref="partners"/>
+    <file name="ipeirotikos-agon-logo-u209331-fr2.png" crc="3912022571" ref="partners"/>
+    <file name="00718-u209445-fr2.jpg" crc="4036499692" ref="partners"/>
+    <file name="diethnes-logo-300x161-u209444-fr2.png" crc="56297614" ref="partners"/>
+    <file name="egg-u209446-fr2.jpg" crc="301953074" ref="partners"/>
+    <file name="u209443-42.png" crc="3990393672" ref="partners"/>
+    <file name="nn_logo-u209448-fr2.jpg" crc="231622641" ref="partners"/>
+    <file name="pizza-fan-2-u209569-fr2.png" crc="523408338" ref="partners"/>
+    <file name="dimitriou-u209595-fr2.jpg" crc="3805190443" ref="partners"/>
+    <file name="garrison-u209634-fr2.jpg" crc="299483414" ref="partners"/>
+    <file name="sep-u209636-fr2.png" crc="87655585" ref="partners"/>
+    <file name="frontzou-u209637-fr2.png" crc="61394197" ref="partners"/>
+    <file name="u209732-42.png" crc="4246652329" ref="partners"/>
+    <file name="u180543-63.png" crc="60212317" ref="partners"/>
+    <file name="u209095-43.png" crc="4134450718" ref="partners"/>
+    <file name="u209216-43.png" crc="201468636" ref="partners"/>
+    <file name="u209326-43.png" crc="120833863" ref="partners"/>
+    <file name="u209443-43.png" crc="443363347" ref="partners"/>
+    <file name="corfu beer.png" crc="3992081681" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="epirustv1_tv-u209328-fr3.jpg" crc="70336309" ref="partners"/>
+    <file name="dri.png" crc="278499545" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="wind-logo.jpg" crc="141999504" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="ipeirotikos-agon-logo.png" crc="535668462" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="diethnes-logo-300x161.png" crc="4251749396" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="00718.jpg" crc="3806772709" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="egg.jpg" crc="4102184616" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="itv.jpg" crc="3846819554" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="nn_logo.jpg" crc="407842964" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="pizza-fan-2.png" crc="4273871393" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="lacta.png" crc="4269981256" ref="partners">
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="dimitriou.jpg" crc="4217049105" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="milokleftis_logo.jpg" crc="349960577" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="garrison.jpg" crc="64685330" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="kolionasios.jpg" crc="3877248009" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="sep.png" crc="4221139039" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="frontzou.png" crc="4025934493" ref="partners">
+      <caption webpage="partners" alt=""/>
+      <caption webpage="partners" alt=""/>
+    </file>
+    <file name="u209732-43.png" crc="121273476" ref="partners"/>
+    <file name="u180543-64.png" crc="178310600" ref="partners"/>
+    <file name="u209095-44.png" crc="508164530" ref="partners"/>
+    <file name="u209216-44.png" crc="3892195873" ref="partners"/>
+    <file name="u209326-44.png" crc="289471205" ref="partners"/>
+    <file name="u209443-44.png" crc="4057432231" ref="partners"/>
+    <file name="aegean_airlines_logosvg-u209102-fr.png" crc="4255244772" ref="partners"/>
+    <file name="nbg_logos_gr_color-u209131-fr.jpg" crc="3945957869" ref="partners"/>
+    <file name="iwannina-dimos-logo-u209170-fr.jpg" crc="203819139" ref="partners"/>
+    <file name="vikoseba_vraveio2_0-u209185-fr.jpg" crc="187302085" ref="partners"/>
+    <file name="kathimerini-u209221-fr.jpg" crc="159149645" ref="partners"/>
+    <file name="epirustv1_tv-u209328-fr4.jpg" crc="82508221" ref="partners"/>
+    <file name="u209732-44.png" crc="3997524536" ref="partners"/>
+    <file name="run_greece-e1486464697939-u209739-fr.jpg" crc="340263910" ref="partners"/>
+    <file name="panathinaikos_superfoods_(2016_logo)-u209754-fr.png" crc="4053942436" ref="partners"/>
+    <file name="29793827_1864691063565253_6373096808536604672_n-u209769-fr.jpg" crc="134823782" ref="partners"/>
+    <file name="u180543-65.png" crc="204083203" ref="partners"/>
+    <file name="u209095-45.png" crc="422539898" ref="partners"/>
+    <file name="u209216-45.png" crc="4053112438" ref="partners"/>
+    <file name="u209326-45.png" crc="3780852708" ref="partners"/>
+    <file name="u209443-45.png" crc="524990593" ref="partners"/>
+    <file name="aegean_airlines_logosvg-u209102-fr2.png" crc="419794209" ref="partners"/>
+    <file name="nbg_logos_gr_color-u209131-fr2.jpg" crc="3894353647" ref="partners"/>
+    <file name="iwannina-dimos-logo-u209170-fr2.jpg" crc="399170803" ref="partners"/>
+    <file name="vikoseba_vraveio2_0-u209185-fr2.jpg" crc="39794810" ref="partners"/>
+    <file name="kathimerini-u209221-fr2.jpg" crc="192217463" ref="partners"/>
+    <file name="corfu beer-u209327-fr2.png" crc="101014932" ref="partners"/>
+    <file name="epirustv1_tv-u209328-fr5.jpg" crc="4067861833" ref="partners"/>
+    <file name="dri-u209329-fr3.png" crc="188238398" ref="partners"/>
+    <file name="wind-logo-u209330-fr3.jpg" crc="4168144615" ref="partners"/>
+    <file name="ipeirotikos-agon-logo-u209331-fr3.png" crc="4201501913" ref="partners"/>
+    <file name="diethnes-logo-300x161-u209444-fr3.png" crc="3823581855" ref="partners"/>
+    <file name="00718-u209445-fr3.jpg" crc="3834306788" ref="partners"/>
+    <file name="egg-u209446-fr3.jpg" crc="3978341107" ref="partners"/>
+    <file name="nn_logo-u209448-fr3.jpg" crc="444948596" ref="partners"/>
+    <file name="pizza-fan-2-u209569-fr3.png" crc="519596922" ref="partners"/>
+    <file name="dimitriou-u209595-fr3.jpg" crc="3768410193" ref="partners"/>
+    <file name="garrison-u209634-fr3.jpg" crc="3788278212" ref="partners"/>
+    <file name="sep-u209636-fr3.png" crc="3867726824" ref="partners"/>
+    <file name="frontzou-u209637-fr3.png" crc="365865644" ref="partners"/>
+    <file name="u209732-45.png" crc="18857192" ref="partners"/>
+    <file name="run_greece-e1486464697939-u209739-fr2.jpg" crc="226339855" ref="partners"/>
+    <file name="panathinaikos_superfoods_(2016_logo)-u209754-fr2.png" crc="4145105892" ref="partners"/>
+    <file name="29793827_1864691063565253_6373096808536604672_n-u209769-fr2.jpg" crc="454682057" ref="partners"/>
+    <file name="u180543-66.png" crc="4241361572" ref="partners"/>
+    <file name="u209095-46.png" crc="3868910476" ref="partners"/>
+    <file name="u209216-46.png" crc="102376939" ref="partners"/>
+    <file name="u209326-46.png" crc="80774016" ref="partners"/>
+    <file name="u209443-46.png" crc="3839829886" ref="partners"/>
+    <file name="aegean_airlines_logosvg-u209102-fr3.png" crc="347292106" ref="partners"/>
+    <file name="alpha_tv_logosvg-u209116-fr.png" crc="201848445" ref="partners"/>
+    <file name="nbg_logos_gr_color-u209131-fr3.jpg" crc="4107404916" ref="partners"/>
+    <file name="iwannina-dimos-logo-u209170-fr3.jpg" crc="4290182871" ref="partners"/>
+    <file name="vikoseba_vraveio2_0-u209185-fr3.jpg" crc="462223697" ref="partners"/>
+    <file name="dulac-u209217-fr.png" crc="534374343" ref="partners"/>
+    <file name="durex-logo-58ce802d3e-seeklogocom-u209218-fr.jpg" crc="4079223410" ref="partners"/>
+    <file name="mac-logo-black-350x350-u209219-fr.jpg" crc="4198532720" ref="partners"/>
+    <file name="1620535_702775569813353_8272268340612111597_n-u209220-fr.jpg" crc="240488147" ref="partners"/>
+    <file name="kathimerini-u209221-fr3.jpg" crc="4070447181" ref="partners"/>
+    <file name="corfu beer-u209327-fr3.png" crc="4242857837" ref="partners"/>
+    <file name="dri-u209329-fr4.png" crc="516773481" ref="partners"/>
+    <file name="wind-logo-u209330-fr4.jpg" crc="4108726756" ref="partners"/>
+    <file name="diethnes-logo-300x161-u209444-fr4.png" crc="3854529773" ref="partners"/>
+    <file name="00718-u209445-fr4.jpg" crc="3925478038" ref="partners"/>
+    <file name="egg-u209446-fr4.jpg" crc="4268747389" ref="partners"/>
+    <file name="itv-u209447-fr2.jpg" crc="4212518737" ref="partners"/>
+    <file name="nn_logo-u209448-fr4.jpg" crc="152685850" ref="partners"/>
+    <file name="pizza-fan-2-u209569-fr4.png" crc="179740424" ref="partners"/>
+    <file name="dimitriou-u209595-fr4.jpg" crc="4281370645" ref="partners"/>
+    <file name="milokleftis_logo-u209633-fr2.jpg" crc="132946398" ref="partners"/>
+    <file name="garrison-u209634-fr4.jpg" crc="4021660366" ref="partners"/>
+    <file name="kolionasios-u209635-fr2.jpg" crc="347794450" ref="partners"/>
+    <file name="sep-u209636-fr4.png" crc="3968293340" ref="partners"/>
+    <file name="frontzou-u209637-fr4.png" crc="202652745" ref="partners"/>
+    <file name="u209732-46.png" crc="63581399" ref="partners"/>
+    <file name="run_greece-e1486464697939-u209739-fr3.jpg" crc="449420556" ref="partners"/>
+    <file name="panathinaikos_superfoods_(2016_logo)-u209754-fr3.png" crc="178307083" ref="partners"/>
+    <file name="29793827_1864691063565253_6373096808536604672_n-u209769-fr3.jpg" crc="335307415" ref="partners"/>
+    <file name="u180543-67.png" crc="3881324722" ref="partners"/>
+    <file name="u209095-47.png" crc="153725922" ref="partners"/>
+    <file name="u209216-47.png" crc="4048907152" ref="partners"/>
+    <file name="u209326-47.png" crc="138796581" ref="partners"/>
+    <file name="u209443-47.png" crc="4094833119" ref="partners"/>
+    <file name="aegean_airlines_logosvg-u209102-fr4.png" crc="58933143" ref="partners"/>
+    <file name="alpha_tv_logosvg-u209116-fr2.png" crc="3844533358" ref="partners"/>
+    <file name="nbg_logos_gr_color-u209131-fr4.jpg" crc="369707500" ref="partners"/>
+    <file name="iwannina-dimos-logo-u209170-fr4.jpg" crc="4242137004" ref="partners"/>
+    <file name="vikoseba_vraveio2_0-u209185-fr4.jpg" crc="458778644" ref="partners"/>
+    <file name="dulac-u209217-fr2.png" crc="127185615" ref="partners"/>
+    <file name="durex-logo-58ce802d3e-seeklogocom-u209218-fr2.jpg" crc="4080083313" ref="partners"/>
+    <file name="mac-logo-black-350x350-u209219-fr2.jpg" crc="511387184" ref="partners"/>
+    <file name="1620535_702775569813353_8272268340612111597_n-u209220-fr2.jpg" crc="3885908065" ref="partners"/>
+    <file name="kathimerini-u209221-fr4.jpg" crc="65604910" ref="partners"/>
+    <file name="corfu beer-u209327-fr4.png" crc="37745357" ref="partners"/>
+    <file name="epirustv1_tv-u209328-fr6.jpg" crc="4167374980" ref="partners"/>
+    <file name="dri-u209329-fr5.png" crc="3924026322" ref="partners"/>
+    <file name="wind-logo-u209330-fr5.jpg" crc="382475577" ref="partners"/>
+    <file name="ipeirotikos-agon-logo-u209331-fr4.png" crc="136459435" ref="partners"/>
+    <file name="diethnes-logo-300x161-u209444-fr5.png" crc="3930087056" ref="partners"/>
+    <file name="00718-u209445-fr5.jpg" crc="447929532" ref="partners"/>
+    <file name="egg-u209446-fr5.jpg" crc="4218173538" ref="partners"/>
+    <file name="itv-u209447-fr3.jpg" crc="157773419" ref="partners"/>
+    <file name="nn_logo-u209448-fr5.jpg" crc="526120412" ref="partners"/>
+    <file name="pizza-fan-2-u209569-fr5.png" crc="148545724" ref="partners"/>
+    <file name="lacta-u209570-fr2.png" crc="4251070212" ref="partners"/>
+    <file name="dimitriou-u209595-fr5.jpg" crc="23335837" ref="partners"/>
+    <file name="milokleftis_logo-u209633-fr3.jpg" crc="160658481" ref="partners"/>
+    <file name="garrison-u209634-fr5.jpg" crc="3911996529" ref="partners"/>
+    <file name="kolionasios-u209635-fr3.jpg" crc="3874741445" ref="partners"/>
+    <file name="sep-u209636-fr5.png" crc="3907821739" ref="partners"/>
+    <file name="frontzou-u209637-fr5.png" crc="411228962" ref="partners"/>
+    <file name="u209732-47.png" crc="4208825478" ref="partners"/>
+    <file name="run_greece-e1486464697939-u209739-fr4.jpg" crc="403647707" ref="partners"/>
+    <file name="panathinaikos_superfoods_(2016_logo)-u209754-fr4.png" crc="357458398" ref="partners"/>
+    <file name="29793827_1864691063565253_6373096808536604672_n-u209769-fr4.jpg" crc="4258050703" ref="partners"/>
+    <file name="u180543-68.png" crc="351604935" ref="partners"/>
+    <file name="u209095-48.png" crc="3799626544" ref="partners"/>
+    <file name="u209216-48.png" crc="533069648" ref="partners"/>
+    <file name="u209326-48.png" crc="344112229" ref="partners"/>
+    <file name="u209443-48.png" crc="454360686" ref="partners"/>
+    <file name="aegean_airlines_logosvg-u209102-fr5.png" crc="3812743638" ref="partners"/>
+    <file name="alpha_tv_logosvg-u209116-fr3.png" crc="3920344931" ref="partners"/>
+    <file name="nbg_logos_gr_color-u209131-fr5.jpg" crc="156962931" ref="partners"/>
+    <file name="iwannina-dimos-logo-u209170-fr5.jpg" crc="3767481256" ref="partners"/>
+    <file name="vikoseba_vraveio2_0-u209185-fr5.jpg" crc="479052112" ref="partners"/>
+    <file name="dulac-u209217-fr3.png" crc="4134607605" ref="partners"/>
+    <file name="durex-logo-58ce802d3e-seeklogocom-u209218-fr3.jpg" crc="445937928" ref="partners"/>
+    <file name="mac-logo-black-350x350-u209219-fr3.jpg" crc="4123763338" ref="partners"/>
+    <file name="1620535_702775569813353_8272268340612111597_n-u209220-fr3.jpg" crc="3876704177" ref="partners"/>
+    <file name="kathimerini-u209221-fr5.jpg" crc="4141086127" ref="partners"/>
+    <file name="corfu beer-u209327-fr5.png" crc="4226115308" ref="partners"/>
+    <file name="epirustv1_tv-u209328-fr7.jpg" crc="4233189960" ref="partners"/>
+    <file name="dri-u209329-fr6.png" crc="4183055095" ref="partners"/>
+    <file name="wind-logo-u209330-fr6.jpg" crc="487656685" ref="partners"/>
+    <file name="ipeirotikos-agon-logo-u209331-fr5.png" crc="457046389" ref="partners"/>
+    <file name="diethnes-logo-300x161-u209444-fr6.png" crc="80497695" ref="partners"/>
+    <file name="00718-u209445-fr6.jpg" crc="220027228" ref="partners"/>
+    <file name="egg-u209446-fr6.jpg" crc="88132414" ref="partners"/>
+    <file name="itv-u209447-fr4.jpg" crc="3877265522" ref="partners"/>
+    <file name="nn_logo-u209448-fr6.jpg" crc="4293934368" ref="partners"/>
+    <file name="pizza-fan-2-u209569-fr6.png" crc="4245309380" ref="partners"/>
+    <file name="lacta-u209570-fr3.png" crc="4215902309" ref="partners"/>
+    <file name="dimitriou-u209595-fr6.jpg" crc="4174480233" ref="partners"/>
+    <file name="milokleftis_logo-u209633-fr4.jpg" crc="3838654096" ref="partners"/>
+    <file name="garrison-u209634-fr6.jpg" crc="4231767414" ref="partners"/>
+    <file name="kolionasios-u209635-fr4.jpg" crc="121596039" ref="partners"/>
+    <file name="sep-u209636-fr6.png" crc="3820122673" ref="partners"/>
+    <file name="frontzou-u209637-fr6.png" crc="478094294" ref="partners"/>
+    <file name="u209732-48.png" crc="158970293" ref="partners"/>
+    <file name="run_greece-e1486464697939-u209739-fr5.jpg" crc="161046963" ref="partners"/>
+    <file name="panathinaikos_superfoods_(2016_logo)-u209754-fr5.png" crc="4184488144" ref="partners"/>
+    <file name="29793827_1864691063565253_6373096808536604672_n-u209769-fr5.jpg" crc="488121771" ref="partners"/>
   </folder>
-  <file name="index.html" crc="32204520" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="schedule.html" crc="4243663241" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="aiesec.html" crc="263949822" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="speakers.html" crc="3786725733" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="contact.html" crc="15852283" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="our-team.html" crc="3854750994" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="partners.html" crc="4190984994" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="1st.html" crc="169978523" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="2nd.html" crc="332638061" seo="true" mt="1523570845768" redirect="true"/>
-  <file name="main.html" crc="3918717147" seo="true" mt="1523570807075" redirect="true"/>
-  <file name="mary-sinatsaki.html" crc="155761894" seo="true" mt="1523570851662" redirect="true"/>
-  <file name="mixaloulis.html" crc="3876290980" seo="true" mt="1523570853601" redirect="true"/>
-  <file name="ελένη-αντωνιάδου.html" crc="268572264" seo="true" mt="1523570855728" redirect="true"/>
-  <file name="σπυρίδων-σούλης.html" crc="463271728" seo="true" mt="1523570858721" redirect="true"/>
-  <file name="αλέξανδρος-μαραγκός.html" crc="4018176852" seo="true" mt="1523570861129" redirect="true"/>
-  <file name="mc-yinka.html" crc="4122387351" seo="true" mt="1523570864060" redirect="true"/>
-  <file name="μιχάλης-σεΐτης.html" crc="206914709" seo="true" mt="1523570866909" redirect="true"/>
-  <file name="thanos.html" crc="7334617" seo="true" mt="1523570869667" redirect="true"/>
+  <file name="index.html" crc="177153846" seo="true" mt="1523631282909" redirect="true"/>
+  <file name="schedule.html" crc="279366033" seo="true" mt="1523631282909" redirect="true"/>
+  <file name="aiesec.html" crc="4032225661" seo="true" mt="1523631282909" redirect="true"/>
+  <file name="speakers.html" crc="260479585" seo="true" mt="1523631282909" redirect="true"/>
+  <file name="contact.html" crc="4183492684" seo="true" mt="1523631282909" redirect="true"/>
+  <file name="our-team.html" crc="4290013821" seo="true" mt="1523631305723" redirect="true"/>
+  <file name="partners.html" crc="150915698" seo="true" mt="1523631311082" redirect="true"/>
+  <file name="1st.html" crc="13204278" seo="true" mt="1523631282909" redirect="true"/>
+  <file name="2nd.html" crc="4262100955" seo="true" mt="1523631321687" redirect="true"/>
+  <file name="main.html" crc="3837728725" seo="true" mt="1523631282909" redirect="true"/>
+  <file name="mary-sinatsaki.html" crc="3906515829" seo="true" mt="1523631325810" redirect="true"/>
+  <file name="mixaloulis.html" crc="240672464" seo="true" mt="1523631327080" redirect="true"/>
+  <file name="ελένη-αντωνιάδου.html" crc="251206475" seo="true" mt="1523631328542" redirect="true"/>
+  <file name="σπυρίδων-σούλης.html" crc="383346378" seo="true" mt="1523631329802" redirect="true"/>
+  <file name="αλέξανδρος-μαραγκός.html" crc="3994100207" seo="true" mt="1523631330863" redirect="true"/>
+  <file name="mc-yinka.html" crc="488568550" seo="true" mt="1523631332549" redirect="true"/>
+  <file name="μιχάλης-σεΐτης.html" crc="3765877986" seo="true" mt="1523631334868" redirect="true"/>
+  <file name="thanos.html" crc="158933417" seo="true" mt="1523631338936" redirect="true"/>
 </manifest>
